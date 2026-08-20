@@ -1,4 +1,5 @@
 # Automated Utility & Telecom Billing Reconciliation System
+An Agentic AI Workflow using LangGraph, the Microsoft Agent Framework, and the Model Context Protocol (MCP) that automates this entire matching and reconciliation process without human intervention.
 
 ## Stage 1
 Run:
