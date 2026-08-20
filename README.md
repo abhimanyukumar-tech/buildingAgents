@@ -45,5 +45,3 @@ When Azure is configured, test grounded classification:
 ```bash
 python -c "from stage2_rag import classify_dispute; classify_dispute('The meter reading was estimated too high and should be corrected.')"
 ```
-
-Do not commit `.env` or API keys to Git.
